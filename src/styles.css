@@ -1,0 +1,9 @@
+html,
+body {
+  width: 100%;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  width: 100%;
+}
